@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5e0048/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5e0048/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 葆光集
+  date: '2015-08-29 02:09:15.269489'
+  source:
+    repository: kanripo
+    path: KR5e0048
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5e0048_000-YP-C.yaml, hash: 'sha256:e242678b915e026a3496b390b5923201b5bbdd0a7b1f5e17a6f0dbf0bb830c4d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5e0048_000-YP-C.markers.yaml, hash: 'sha256:f4a0becd9d8ffe6650b7591e0df8b0a7adc9d5447733cd1be152ee5b7f3c33c5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5e0048_YP-C_17weiji-10-0001a
+    span:
+    - body
+    - 0
+    - 19982
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:8084a5d36ef8be4ef32a13b9bd33ad8e771f6d7c02b997faf414c35be9355920

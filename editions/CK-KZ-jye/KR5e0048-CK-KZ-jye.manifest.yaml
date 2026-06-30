@@ -1,0 +1,2609 @@
+canonical_identifier: bkk:krp/KR5e0048/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5e0048/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 葆光集
+  date: '2015-08-29 02:09:15.269489'
+  source:
+    repository: kanripo
+    path: KR5e0048
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5e0048_000-CK-KZ-jye.yaml, hash: 'sha256:5cad06b9699f1d9b96c9cad76faa9c9939e828fbad9c8fdf629bf7ed466d3c5a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5e0048_000-CK-KZ-jye.markers.yaml, hash: 'sha256:1dfe669aecc1f591a49a886af389abaf68e26e5931354496ca0185b1f63a7c9a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h3
+    span:
+    - body
+    - 0
+    - 0
+  label: 七言絕句
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h4
+    span:
+    - body
+    - 0
+    - 86
+  label: 金山自宣德州至田相公營約七八¶千里乃金山之北也
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h5
+    span:
+    - body
+    - 86
+    - 153
+  label: 過大石林牙契丹國大石是契丹語¶學士名林牙是小名
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h6
+    span:
+    - body
+    - 153
+    - 181
+  label: 西域物熟節氣比中原較早故記之
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h7
+    span:
+    - body
+    - 181
+    - 209
+  label: 師適有他往而雲水高人踵門者日¶無一二因作此
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h8
+    span:
+    - body
+    - 209
+    - 237
+  label: 唯太守家李提控日逐一過
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h9
+    span:
+    - body
+    - 237
+    - 265
+  label: 自詠
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h10
+    span:
+    - body
+    - 265
+    - 293
+  label: 段公覓得小魚放生
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h11
+    span:
+    - body
+    - 293
+    - 321
+  label: 寶玄堂作
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h12
+    span:
+    - body
+    - 321
+    - 349
+  label: 和陳學士
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h13
+    span:
+    - body
+    - 349
+    - 377
+  label: 和趙講師
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h14
+    span:
+    - body
+    - 377
+    - 405
+  label: 劉宣差病索詩
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h15
+    span:
+    - body
+    - 405
+    - 433
+  label: 蒙師旨去山東別燕京偶得一絶¶<md:KR5e0048_HFL_000-007b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h16
+    span:
+    - body
+    - 433
+    - 490
+  label: 和王道錄
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h17
+    span:
+    - body
+    - 490
+    - 605
+  label: 眞人有天上人間四絕依韻奉和
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h18
+    span:
+    - body
+    - 605
+    - 633
+  label: 燕京會首問作福
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h19
+    span:
+    - body
+    - 633
+    - 719
+  label: 自詠
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h20
+    span:
+    - body
+    - 719
+    - 892
+  label: 寶玄堂下得房二間
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h21
+    span:
+    - body
+    - 892
+    - 920
+  label: 禪子出示墨竹圖索詩
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h22
+    span:
+    - body
+    - 920
+    - 948
+  label: 道友索茶
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h23
+    span:
+    - body
+    - 948
+    - 976
+  label: 登高
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h24
+    span:
+    - body
+    - 976
+    - 1033
+  label: 自省好靜¶<md:KR5e0048_HFL_000-010b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h25
+    span:
+    - body
+    - 1033
+    - 1090
+  label: 寶玄堂月下聞鴈
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h26
+    span:
+    - body
+    - 1090
+    - 1118
+  label: 看雞冠花
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h27
+    span:
+    - body
+    - 1118
+    - 1146
+  label: 談論各處見解未知實際贈陳學士
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h28
+    span:
+    - body
+    - 1146
+    - 1261
+  label: 吳學士呈眞人詩五篇和之
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h29
+    span:
+    - body
+    - 1261
+    - 1289
+  label: 天長觀作¶<md:KR5e0048_HFL_000-012a>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h30
+    span:
+    - body
+    - 1289
+    - 1317
+  label: 陳學士覓冠簪詩
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h31
+    span:
+    - body
+    - 1317
+    - 1374
+  label: 燕京劉會首出家要住西山上方雲¶峯觀贈詩二首
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h32
+    span:
+    - body
+    - 1374
+    - 1431
+  label: 寶玄堂偶得
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h33
+    span:
+    - body
+    - 1431
+    - 1459
+  label: 捉住無明
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h34
+    span:
+    - body
+    - 1459
+    - 1603
+  label: 修行五更頌
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h35
+    span:
+    - body
+    - 1603
+    - 1631
+  label: 苦辭眞人往縉山
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h36
+    span:
+    - body
+    - 1631
+    - 1723
+  label: 甲申年十一月二十四日辭師會劉¶<md:KR5e0048_HFL_000-014a>¶便宜留數日以數騎
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h37
+    span:
+    - body
+    - 1723
+    - 1809
+  label: 秋陽觀作¶<md:KR5e0048_HFL_000-014b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h38
+    span:
+    - body
+    - 1809
+    - 1866
+  label: 春日
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h39
+    span:
+    - body
+    - 1866
+    - 1923
+  label: 龍陽觀清明日述
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h40
+    span:
+    - body
+    - 1923
+    - 1951
+  label: 山後暮春雪
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h41
+    span:
+    - body
+    - 1951
+    - 2008
+  label: 西關外與大使華宗選庵地
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h42
+    span:
+    - body
+    - 2008
+    - 2047
+  label: 龍陽觀新成後園可五畝有老松一¶<md:KR5e0048_HFL_000-016a>¶株周迴種瓜日耘其
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h43
+    span:
+    - body
+    - 2047
+    - 2075
+  label: 龍陽觀後有老松一株馮君讚其¶孤秀長久不更變耳
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h44
+    span:
+    - body
+    - 2075
+    - 2103
+  label: 㶟陽東至縉山可二百里所產之物¶他處未可及也¶<md:KR5e0048_HFL_000-016b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h45
+    span:
+    - body
+    - 2103
+    - 2160
+  label: 重午日與德興府道衆遊白貼山靈¶境寺
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h46
+    span:
+    - body
+    - 2160
+    - 2188
+  label: 無所取實自然可用心耳¶<md:KR5e0048_HFL_000-017a>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h47
+    span:
+    - body
+    - 2188
+    - 2224
+  label: 仲夏過武川道友以詩留過夏答云¶龍陽七月間立殿有
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h48
+    span:
+    - body
+    - 2224
+    - 2252
+  label: 五夫人宅見怪柏禪牀作
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h49
+    span:
+    - body
+    - 2252
+    - 2280
+  label: 堅辭道友欲赴龍陽
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h50
+    span:
+    - body
+    - 2280
+    - 2396
+  label: 退居巖穴忽一日潘士送師號賜清¶和大師人迴有詩上
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h51
+    span:
+    - body
+    - 2396
+    - 2482
+  label: 山中雨過賞月
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h52
+    span:
+    - body
+    - 2482
+    - 2510
+  label: 借道錄段公詩韻述
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h53
+    span:
+    - body
+    - 2510
+    - 2538
+  label: 寶玄堂西齋號曰觀妙堂以段公詩¶韻偶得一絕¶<md:KR5e0048_HFL_000-019a>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h54
+    span:
+    - body
+    - 2538
+    - 2595
+  label: 和衆賢赤石詩韻
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h55
+    span:
+    - body
+    - 2595
+    - 2623
+  label: 自嘆虛名於身何益
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h56
+    span:
+    - body
+    - 2623
+    - 2651
+  label: 詠今古
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h57
+    span:
+    - body
+    - 2651
+    - 2679
+  label: 人求題架鷂圖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h58
+    span:
+    - body
+    - 2679
+    - 2736
+  label: 深入峽裏遊團山道院留題
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h59
+    span:
+    - body
+    - 2736
+    - 2822
+  label: 武川送道友至樊山縣回三絕
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h60
+    span:
+    - body
+    - 2822
+    - 3111
+  label: 庚寅年正旦閑吟一韻十絕
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h61
+    span:
+    - body
+    - 3111
+    - 3284
+  label: 庚寅年通仙觀醮罷復迴以詩别道¶友元帥監軍
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h62
+    span:
+    - body
+    - 3284
+    - 3370
+  label: 留別河山道衆會首
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h63
+    span:
+    - body
+    - 3370
+    - 3398
+  label: 跋十老圖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h64
+    span:
+    - body
+    - 3398
+    - 3541
+  label: 礬山先天觀住夏因時勸衆
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h65
+    span:
+    - body
+    - 3541
+    - 3627
+  label: 別礬山道友
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h66
+    span:
+    - body
+    - 3627
+    - 3655
+  label: 詠先天觀殿後湧金池作木牌於池¶面戒物觸穢耳
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h67
+    span:
+    - body
+    - 3655
+    - 3683
+  label: 道過燕臺清水村馬公宅宿滯雨
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h68
+    span:
+    - body
+    - 3683
+    - 3740
+  label: 述懷
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h69
+    span:
+    - body
+    - 3740
+    - 3826
+  label: 崞州赴供三絕
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h70
+    span:
+    - body
+    - 3826
+    - 3854
+  label: 題墨竹¶<md:KR5e0048_HFL_000-026a>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h71
+    span:
+    - body
+    - 3854
+    - 3911
+  label: 常足軒中自述
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h72
+    span:
+    - body
+    - 3911
+    - 3939
+  label: 過晉安府南新莊贈杜道人
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h73
+    span:
+    - body
+    - 3939
+    - 4025
+  label: 偶得
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h74
+    span:
+    - body
+    - 4025
+    - 4111
+  label: 示衆
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h75
+    span:
+    - body
+    - 4111
+    - 4139
+  label: 和寂通居士韻¶<md:KR5e0048_HFL_000-027b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h76
+    span:
+    - body
+    - 4139
+    - 4196
+  label: 通仙觀作寄燕山馮公輩
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h77
+    span:
+    - body
+    - 4196
+    - 4224
+  label: 贈石殿試
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h78
+    span:
+    - body
+    - 4224
+    - 4310
+  label: 過高家鋪
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h79
+    span:
+    - body
+    - 4310
+    - 4396
+  label: 過渾源亂嶺關
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h80
+    span:
+    - body
+    - 4396
+    - 4453
+  label: 嶽神山小亭詩二絕¶<md:KR5e0048_HFL_000-029a>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h81
+    span:
+    - body
+    - 4453
+    - 4481
+  label: 懷仁縣年日作
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h82
+    span:
+    - body
+    - 4481
+    - 4509
+  label: 崞州南陽村紫微觀和移刺中書陳¶秀玉韻¶<md:KR5e0048_HFL_000-029b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h83
+    span:
+    - body
+    - 4509
+    - 4537
+  label: 崇眞觀劉講師請齋
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h84
+    span:
+    - body
+    - 4537
+    - 4624
+  label: 乙未暮春因過交城縣秀野園有詩¶三絕以廣其秀野之
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h85
+    span:
+    - body
+    - 4624
+    - 4652
+  label: 因得平遙縣清虛觀
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h86
+    span:
+    - body
+    - 4652
+    - 4696
+  label: 潞州東北吳兒谷口黎涉二縣長官¶會首接送往來不致
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h87
+    span:
+    - body
+    - 4696
+    - 4724
+  label: 贈靳寶童
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h88
+    span:
+    - body
+    - 4724
+    - 4752
+  label: 忻州張同知見請未能卽應以詩答¶之
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h89
+    span:
+    - body
+    - 4752
+    - 4780
+  label: 乙未季秋至介休縣洪山明霞觀作
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h90
+    span:
+    - body
+    - 4780
+    - 4808
+  label: 過汾州義常村靈源觀土埪宿
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h91
+    span:
+    - body
+    - 4808
+    - 4836
+  label: 太原平陽兩路經遊迎送者無間斷
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h92
+    span:
+    - body
+    - 4836
+    - 4864
+  label: 詠河津紫金山老君峯¶<md:KR5e0048_HFL_000-031b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h93
+    span:
+    - body
+    - 4864
+    - 4892
+  label: 過河津士庶求詩
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h94
+    span:
+    - body
+    - 4892
+    - 4920
+  label: 與西巖張閑話
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h95
+    span:
+    - body
+    - 4920
+    - 4948
+  label: 題新張村庵
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h96
+    span:
+    - body
+    - 4948
+    - 4976
+  label: 答楊漢卿
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h97
+    span:
+    - body
+    - 4976
+    - 5004
+  label: 題馬谷觀音閣
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h98
+    span:
+    - body
+    - 5004
+    - 5032
+  label: 儒士郭公以詩求安樂法
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h99
+    span:
+    - body
+    - 5032
+    - 5060
+  label: 登前高山
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h100
+    span:
+    - body
+    - 5060
+    - 5088
+  label: 前高山得平遥衆官請書遂寄
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h101
+    span:
+    - body
+    - 5088
+    - 5174
+  label: 身退三絕寄燕山同道
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h102
+    span:
+    - body
+    - 5174
+    - 5231
+  label: 示衆
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h103
+    span:
+    - body
+    - 5231
+    - 5259
+  label: 寄平遙縣馬會首
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h104
+    span:
+    - body
+    - 5259
+    - 5287
+  label: 長春宫同袍策馬於前高山下爲雪¶阻故賦一絕以寄耳
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h105
+    span:
+    - body
+    - 5287
+    - 5315
+  label: 前高山連日雪戲題
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h106
+    span:
+    - body
+    - 5315
+    - 5401
+  label: 沁城龜山遊憩得三絕
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h107
+    span:
+    - body
+    - 5401
+    - 5487
+  label: 閑中
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h108
+    span:
+    - body
+    - 5487
+    - 5515
+  label: 丁酉歲中秋沁城寄燕山道衆¶<md:KR5e0048_HFL_000-035a>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h109
+    span:
+    - body
+    - 5515
+    - 5543
+  label: 因看子瞻壁間錄偶得一絕
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h110
+    span:
+    - body
+    - 5543
+    - 5571
+  label: 贈馬會首
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h111
+    span:
+    - body
+    - 5571
+    - 5599
+  label: 重午日別平遙縣李酒使
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h112
+    span:
+    - body
+    - 5599
+    - 5627
+  label: 答大名府請在路染疾不赴
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h113
+    span:
+    - body
+    - 5627
+    - 5655
+  label: 贈牛仙
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h114
+    span:
+    - body
+    - 5655
+    - 5691
+  label: 濰陽住時有清逸庵數與閑上尋閑¶三十年後領衆興縁
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h115
+    span:
+    - body
+    - 5691
+    - 5719
+  label: 道人劉志希獻雕木七眞小像
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h116
+    span:
+    - body
+    - 5719
+    - 5805
+  label: 五華山道院
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h117
+    span:
+    - body
+    - 5805
+    - 5949
+  label: 遊五華五絕答王子正
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h118
+    span:
+    - body
+    - 5949
+    - 5949
+  label: 五言律詩¶<md:KR5e0048_HFL_000-037b>
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h119
+    span:
+    - body
+    - 5949
+    - 5989
+  label: 贊清淨經
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h120
+    span:
+    - body
+    - 5989
+    - 6029
+  label: 戒不足
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h121
+    span:
+    - body
+    - 6029
+    - 6069
+  label: 處順堂中秋作
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h122
+    span:
+    - body
+    - 6069
+    - 6150
+  label: 礬山先天觀作
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h123
+    span:
+    - body
+    - 6150
+    - 6190
+  label: 縉山秋陽觀乙酉正月上元木凌降
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h124
+    span:
+    - body
+    - 6190
+    - 6234
+  label: 自乙酉六月至丙戌四月八日尚無¶雨時在山後龍陽觀
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h125
+    span:
+    - body
+    - 6234
+    - 6283
+  label: 與隴西翁相別二十年識時未及心¶<md:KR5e0048_HFL_000-039a>¶交今會話間乃知其
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h126
+    span:
+    - body
+    - 6283
+    - 6323
+  label: 屢有請疏仍加以眞人號偶得五言¶長歎
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h127
+    span:
+    - body
+    - 6323
+    - 6363
+  label: 王禪師病以詩贈之
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h128
+    span:
+    - body
+    - 6363
+    - 6403
+  label: 題南庵
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h129
+    span:
+    - body
+    - 6403
+    - 6443
+  label: 木林老久病過歲今年辛卯成就下¶元醮事¶<md:KR5e0048_HFL_000-040a>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h130
+    span:
+    - body
+    - 6443
+    - 6483
+  label: 木林老仙去以詩弔之
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h131
+    span:
+    - body
+    - 6483
+    - 6523
+  label: 崞州神清觀有道判莊公談玄之次¶因贈言激發之耳
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h132
+    span:
+    - body
+    - 6523
+    - 6563
+  label: 五華山喜雨
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h133
+    span:
+    - body
+    - 6563
+    - 6603
+  label: 己亥歲四月陰霧七日始覩日月之¶光耳
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h134
+    span:
+    - body
+    - 6603
+    - 6643
+  label: 答王子正
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h135
+    span:
+    - body
+    - 6643
+    - 6643
+  label: 五言長篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h136
+    span:
+    - body
+    - 6643
+    - 6743
+  label: 辛卯東路鹽場醮過景州贈東方道¶衆
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h137
+    span:
+    - body
+    - 6743
+    - 6843
+  label: 出京寄長春宫道衆
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h138
+    span:
+    - body
+    - 6843
+    - 6923
+  label: 重修五華觀喜題
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h139
+    span:
+    - body
+    - 6923
+    - 6983
+  label: 葛洪山周姑書來以詩答之
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h140
+    span:
+    - body
+    - 6983
+    - 7043
+  label: 盤山棲雲觀
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h141
+    span:
+    - body
+    - 7043
+    - 7043
+  label: 五言絕句
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h142
+    span:
+    - body
+    - 7043
+    - 7084
+  label: 叚道錄數載始會面因出衆人詩卷¶繼韻二絕¶<md:KR5e0048_HFL_000-043a>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h143
+    span:
+    - body
+    - 7084
+    - 7293
+  label: 長春宫警世十首
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h144
+    span:
+    - body
+    - 7293
+    - 7421
+  label: 題山水石硯屏
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h145
+    span:
+    - body
+    - 7421
+    - 7483
+  label: 五華山寄王子正三絕
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h146
+    span:
+    - body
+    - 7483
+    - 7483
+  label: 古調詩
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h147
+    span:
+    - body
+    - 7483
+    - 7510
+  label: 同道友遊大山寺
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h148
+    span:
+    - body
+    - 7510
+    - 7537
+  label: 乙未清明過晉祠¶<md:KR5e0048_HFL_000-046b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h149
+    span:
+    - body
+    - 7537
+    - 7586
+  label: 食豆粥寄燕京道衆
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h150
+    span:
+    - body
+    - 7586
+    - 7586
+  label: 語錄
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h151
+    span:
+    - body
+    - 7586
+    - 8067
+  label: 示門人天眞道人
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h152
+    span:
+    - body
+    - 8067
+    - 8067
+  label: 直言
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h153
+    span:
+    - body
+    - 8067
+    - 8278
+  label: 示重陽宫祐德觀道衆
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h154
+    span:
+    - body
+    - 8278
+    - 8278
+  label: 七言絕句
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h155
+    span:
+    - body
+    - 8278
+    - 8306
+  label: 重陽將近袁眞人會五華觀詩贈之
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h156
+    span:
+    - body
+    - 8306
+    - 8334
+  label: 寄段眞卿諸公
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h157
+    span:
+    - body
+    - 8334
+    - 8362
+  label: 答王子正¶<md:KR5e0048_HFL_000-049b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h158
+    span:
+    - body
+    - 8362
+    - 8362
+  label: 詞
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h159
+    span:
+    - body
+    - 8362
+    - 8620
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h160
+    span:
+    - body
+    - 8620
+    - 8823
+  label: 龍陽觀冬至作
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h161
+    span:
+    - body
+    - 8823
+    - 9128
+  label: 時在天長正當大暑歸山後恰值三¶秋因事而作
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h162
+    span:
+    - body
+    - 9128
+    - 9178
+  label: 贈田道人
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h163
+    span:
+    - body
+    - 9178
+    - 9228
+  label: 贈萬蓮會衆¶<md:KR5e0048_HFL_000-053b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h164
+    span:
+    - body
+    - 9228
+    - 9329
+  label: 入西山路
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h165
+    span:
+    - body
+    - 9329
+    - 9379
+  label: 勸衆減睡
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h166
+    span:
+    - body
+    - 9379
+    - 9429
+  label: 常足暢懷
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h167
+    span:
+    - body
+    - 9429
+    - 9479
+  label: 贈張先生¶<md:KR5e0048_HFL_000-054b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h168
+    span:
+    - body
+    - 9479
+    - 9580
+  label: 寄京師道友
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h169
+    span:
+    - body
+    - 9580
+    - 9630
+  label: 贈儒士王子正
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h170
+    span:
+    - body
+    - 9630
+    - 9868
+  label: 巫山一段雲
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h171
+    span:
+    - body
+    - 9868
+    - 9914
+  label: 寄天長道衆
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h172
+    span:
+    - body
+    - 9914
+    - 9960
+  label: 攜杖上禪房山
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h173
+    span:
+    - body
+    - 9960
+    - 10006
+  label: 先天觀作
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h174
+    span:
+    - body
+    - 10006
+    - 10062
+  label: 道友堅留住冬聖地西北有缺可費¶千功未暇修補待春
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h175
+    span:
+    - body
+    - 10062
+    - 10108
+  label: 龍陽觀九日
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h176
+    span:
+    - body
+    - 10108
+    - 10154
+  label: 勸世
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h177
+    span:
+    - body
+    - 10154
+    - 10232
+  label: 卜居西關好山萬疊河在其中曲迴¶上下不啻二三十里
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h178
+    span:
+    - body
+    - 10232
+    - 10278
+  label: 題通仙觀¶<md:KR5e0048_HFL_000-058a>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h179
+    span:
+    - body
+    - 10278
+    - 10324
+  label: 催衲襖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h180
+    span:
+    - body
+    - 10324
+    - 10370
+  label: 龍門川溪水同翟老賞月
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h181
+    span:
+    - body
+    - 10370
+    - 10416
+  label: 贈龍虎夫人
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h182
+    span:
+    - body
+    - 10416
+    - 10462
+  label: 清水作
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h183
+    span:
+    - body
+    - 10462
+    - 10508
+  label: 自詠¶<md:KR5e0048_HFL_000-059a>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h184
+    span:
+    - body
+    - 10508
+    - 10554
+  label: 戒無明
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h185
+    span:
+    - body
+    - 10554
+    - 10740
+  label: 鳳棲梧
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h186
+    span:
+    - body
+    - 10740
+    - 10861
+  label: 宣德州見請以此詞答之
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h187
+    span:
+    - body
+    - 10861
+    - 10921
+  label: 先天觀作
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h188
+    span:
+    - body
+    - 10921
+    - 11042
+  label: 和碧虛壇詞
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h189
+    span:
+    - body
+    - 11042
+    - 11256
+  label: 述懷
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h190
+    span:
+    - body
+    - 11256
+    - 11324
+  label: 臨江仙
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h191
+    span:
+    - body
+    - 11324
+    - 11384
+  label: 袁夫人住沙漠十年後出家回都作¶詞以贈之
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h192
+    span:
+    - body
+    - 11384
+    - 11566
+  label: 西山靜坐
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h193
+    span:
+    - body
+    - 11566
+    - 11626
+  label: 示衆
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h194
+    span:
+    - body
+    - 11626
+    - 11686
+  label: 李行省請予往山東葬三師燕京道¶衆並士庶皆不許感　　懷
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h195
+    span:
+    - body
+    - 11686
+    - 11807
+  label: 偶得
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h196
+    span:
+    - body
+    - 11807
+    - 11867
+  label: 五華山住夏時有道衆見以詞贈之
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h197
+    span:
+    - body
+    - 11867
+    - 12276
+  label: 無俗念
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h198
+    span:
+    - body
+    - 12276
+    - 12376
+  label: 繼人韻
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h199
+    span:
+    - body
+    - 12376
+    - 12476
+  label: 大安山棲雲觀中秋賞月
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h200
+    span:
+    - body
+    - 12476
+    - 12576
+  label: 通仙觀作
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h201
+    span:
+    - body
+    - 12576
+    - 12676
+  label: 論性
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h202
+    span:
+    - body
+    - 12676
+    - 12753
+  label: 江城子
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h203
+    span:
+    - body
+    - 12753
+    - 12965
+  label: 龍陽觀冬至作¶<md:KR5e0048_HFL_000-068b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h204
+    span:
+    - body
+    - 12965
+    - 13035
+  label: 詠臘雪
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h205
+    span:
+    - body
+    - 13035
+    - 13105
+  label: 西山之通仙觀卜以重陽作醮前數¶日北風嚴惡天氣昏　　暝小雪微作衆¶意憂惶八日發牒之後俄爾開霽兩¶晝夜　　畢十日陰雪復作萬口一辭讚¶嘆希有勝縁因作一詞以　　記其實
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h206
+    span:
+    - body
+    - 13105
+    - 13175
+  label: 庚寅年通仙醮罷復迴不遂本願¶以詞別道友衆醮信¶士
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h207
+    span:
+    - body
+    - 13175
+    - 13245
+  label: 別礬山先天觀道友
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h208
+    span:
+    - body
+    - 13245
+    - 13315
+  label: 仲冬
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h209
+    span:
+    - body
+    - 13315
+    - 13385
+  label: 方壺過冬
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h210
+    span:
+    - body
+    - 13385
+    - 13526
+  label: 義州作
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h211
+    span:
+    - body
+    - 13526
+    - 13596
+  label: 榆次縣眞常觀作
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h212
+    span:
+    - body
+    - 13596
+    - 13666
+  label: 沁州神霄宫賞月
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h213
+    span:
+    - body
+    - 13666
+    - 13843
+  label: 無夢令
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h214
+    span:
+    - body
+    - 13843
+    - 13987
+  label: 道無情
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h215
+    span:
+    - body
+    - 13987
+    - 14068
+  label: 秋陽觀作答宣德州道友請
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h216
+    span:
+    - body
+    - 14068
+    - 14149
+  label: 別西山道友
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h217
+    span:
+    - body
+    - 14149
+    - 14271
+  label: 別蔚州道衆
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h218
+    span:
+    - body
+    - 14271
+    - 14311
+  label: 懷仁縣作
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h219
+    span:
+    - body
+    - 14311
+    - 14351
+  label: 老年退居沁郡奉詔還燕京大長春¶宫
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h220
+    span:
+    - body
+    - 14351
+    - 14391
+  label: 依韻別沁州長官杜帥¶<md:KR5e0048_HFL_000-076a>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h221
+    span:
+    - body
+    - 14391
+    - 14621
+  label: 減字木蘭花
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h222
+    span:
+    - body
+    - 14621
+    - 14665
+  label: 縉山川有三觀皆有陽字此間往來¶故云三陽道士
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h223
+    span:
+    - body
+    - 14665
+    - 14709
+  label: 秋陽道友見過¶<md:KR5e0048_HFL_000-077b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h224
+    span:
+    - body
+    - 14709
+    - 14753
+  label: 一道士出示杜甫遊春詩卷
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h225
+    span:
+    - body
+    - 14753
+    - 14887
+  label: 示衆
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h226
+    span:
+    - body
+    - 14887
+    - 14931
+  label: 贈龍虎夫人¶<md:KR5e0048_HFL_000-078b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h227
+    span:
+    - body
+    - 14931
+    - 15020
+  label: 西山作
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h228
+    span:
+    - body
+    - 15020
+    - 15064
+  label: 贈燕京萬蓮會衆
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h229
+    span:
+    - body
+    - 15064
+    - 15108
+  label: 懷仁縣
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h230
+    span:
+    - body
+    - 15108
+    - 15152
+  label: 西路請張道人於處順堂畫西遊記¶<md:KR5e0048_HFL_000-079b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h231
+    span:
+    - body
+    - 15152
+    - 15364
+  label: 悟南柯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h232
+    span:
+    - body
+    - 15364
+    - 15633
+  label: 青玉案
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h233
+    span:
+    - body
+    - 15633
+    - 15696
+  label: 瑞鷓鴣
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h234
+    span:
+    - body
+    - 15696
+    - 15752
+  label: 詠西山
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h235
+    span:
+    - body
+    - 15752
+    - 15808
+  label: 過龍泉峪
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h236
+    span:
+    - body
+    - 15808
+    - 15921
+  label: 示衆
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h237
+    span:
+    - body
+    - 15921
+    - 16034
+  label: 勸世
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h238
+    span:
+    - body
+    - 16034
+    - 16095
+  label: 南鄕子
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h239
+    span:
+    - body
+    - 16095
+    - 16151
+  label: 贈西路道人
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h240
+    span:
+    - body
+    - 16151
+    - 16209
+  label: 虞美人
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h241
+    span:
+    - body
+    - 16209
+    - 16278
+  label: 月上海棠
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h242
+    span:
+    - body
+    - 16278
+    - 16342
+  label: 踏雲行
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h243
+    span:
+    - body
+    - 16342
+    - 16518
+  label: 自詠
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h244
+    span:
+    - body
+    - 16518
+    - 16576
+  label: 讚師父仙體不朽
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h245
+    span:
+    - body
+    - 16576
+    - 16806
+  label: 點絳唇
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h246
+    span:
+    - body
+    - 16806
+    - 16850
+  label: 暮春遊五華山繼先師韻
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h247
+    span:
+    - body
+    - 16850
+    - 16920
+  label: 卜算子
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h248
+    span:
+    - body
+    - 16920
+    - 17034
+  label: 駕聖朝
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h249
+    span:
+    - body
+    - 17034
+    - 17084
+  label: 太平興國觀中秋賞月
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h250
+    span:
+    - body
+    - 17084
+    - 17161
+  label: 一剪梅
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h251
+    span:
+    - body
+    - 17161
+    - 17221
+  label: 示衆復用前韻
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h252
+    span:
+    - body
+    - 17221
+    - 17281
+  label: 太平興國觀示衆
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h253
+    span:
+    - body
+    - 17281
+    - 17341
+  label: 寄蔚州道友
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h254
+    span:
+    - body
+    - 17341
+    - 17523
+  label: 詠前高山
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h255
+    span:
+    - body
+    - 17523
+    - 17583
+  label: 述懷贈程老先生
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h256
+    span:
+    - body
+    - 17583
+    - 17643
+  label: 述懷贈柳先生
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h257
+    span:
+    - body
+    - 17643
+    - 17703
+  label: 下山
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h258
+    span:
+    - body
+    - 17703
+    - 17765
+  label: 下手遲
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h259
+    span:
+    - body
+    - 17765
+    - 17814
+  label: 昭君怨
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5e0048_CK-KZ-jye_000-h260
+    span:
+    - body
+    - 17814
+    - 17876
+  label: 鳳棲梧
+  type: section
+  level: 3
+hash: sha256:c29cedb8b4ae386d7d99f1c6ff955ccb3f7d0f81868d9092bdf42045f1d4f612
